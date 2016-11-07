@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 6421c26e6a8dd0544974941be7ce1424
+timeCreated: 1478446148
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bottom corner left
+    100002: bottom corner right
+    100004: bouncer002
+    100006: bouncer003
+    100008: bouncer007
+    100010: bouncer008
+    100012: bouncer009
+    100014: bouncer010
+    100016: bouncer011
+    100018: bouncer012
+    100020: Box001
+    100022: Box004
+    100024: Box005
+    100026: Box006
+    100028: Box007
+    100030: Box008
+    100032: Box009
+    100034: Box010
+    100036: Box011
+    100038: Box012
+    100040: Box013
+    100042: Box014
+    100044: Box015
+    100046: Box016
+    100048: Box017
+    100050: Cylinder002
+    100052: //RootNode
+    100054: flipper1
+    100056: flipper2
+    100058: kast
+    100060: mid-spinner
+    100062: tri bouncer
+    100064: tri bouncer001
+    400000: bottom corner left
+    400002: bottom corner right
+    400004: bouncer002
+    400006: bouncer003
+    400008: bouncer007
+    400010: bouncer008
+    400012: bouncer009
+    400014: bouncer010
+    400016: bouncer011
+    400018: bouncer012
+    400020: Box001
+    400022: Box004
+    400024: Box005
+    400026: Box006
+    400028: Box007
+    400030: Box008
+    400032: Box009
+    400034: Box010
+    400036: Box011
+    400038: Box012
+    400040: Box013
+    400042: Box014
+    400044: Box015
+    400046: Box016
+    400048: Box017
+    400050: Cylinder002
+    400052: //RootNode
+    400054: flipper1
+    400056: flipper2
+    400058: kast
+    400060: mid-spinner
+    400062: tri bouncer
+    400064: tri bouncer001
+    2300000: bottom corner left
+    2300002: bottom corner right
+    2300004: bouncer002
+    2300006: bouncer003
+    2300008: bouncer007
+    2300010: bouncer008
+    2300012: bouncer009
+    2300014: bouncer010
+    2300016: bouncer011
+    2300018: bouncer012
+    2300020: Box001
+    2300022: Box004
+    2300024: Box005
+    2300026: Box006
+    2300028: Box007
+    2300030: Box008
+    2300032: Box009
+    2300034: Box010
+    2300036: Box011
+    2300038: Box012
+    2300040: Box013
+    2300042: Box014
+    2300044: Box015
+    2300046: Box016
+    2300048: Box017
+    2300050: Cylinder002
+    2300052: flipper1
+    2300054: flipper2
+    2300056: kast
+    2300058: mid-spinner
+    2300060: tri bouncer
+    2300062: tri bouncer001
+    3300000: bottom corner left
+    3300002: bottom corner right
+    3300004: bouncer002
+    3300006: bouncer003
+    3300008: bouncer007
+    3300010: bouncer008
+    3300012: bouncer009
+    3300014: bouncer010
+    3300016: bouncer011
+    3300018: bouncer012
+    3300020: Box001
+    3300022: Box004
+    3300024: Box005
+    3300026: Box006
+    3300028: Box007
+    3300030: Box008
+    3300032: Box009
+    3300034: Box010
+    3300036: Box011
+    3300038: Box012
+    3300040: Box013
+    3300042: Box014
+    3300044: Box015
+    3300046: Box016
+    3300048: Box017
+    3300050: Cylinder002
+    3300052: flipper1
+    3300054: flipper2
+    3300056: kast
+    3300058: mid-spinner
+    3300060: tri bouncer
+    3300062: tri bouncer001
+    4300000: kast
+    4300002: tri bouncer
+    4300004: bottom corner left
+    4300006: bottom corner right
+    4300008: flipper1
+    4300010: flipper2
+    4300012: Box001
+    4300014: tri bouncer001
+    4300016: bouncer002
+    4300018: bouncer003
+    4300020: Box004
+    4300022: Box005
+    4300024: mid-spinner
+    4300026: Box006
+    4300028: bouncer007
+    4300030: Box007
+    4300032: Box008
+    4300034: Box009
+    4300036: Box010
+    4300038: Box011
+    4300040: Box012
+    4300042: Box013
+    4300044: Box014
+    4300046: Cylinder002
+    4300048: Box015
+    4300050: Box016
+    4300052: Box017
+    4300054: bouncer008
+    4300056: bouncer009
+    4300058: bouncer010
+    4300060: bouncer011
+    4300062: bouncer012
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
