@@ -1,0 +1,72 @@
+1. Procesverslag
+
+1.1 Inleiding.
+
+Dit verslag is een samenvatting van hoe ik van begin tot eind mijn project heb bedacht,ontworpen
+en werkend heb gekregen. 
+
+Ook vermeld ik in dit verslag hoe ik het beter had kunnen doen en wat ik in de toekomst anders zou doen,
+wat er fout ging en hoe ik deze problemen op heb gelost.
+
+1.2 Planning
+
+van nature ben ik niet de beste planningsmeester dus uiteraard zouden daar problemen mee komen. 
+Gelukkig viel het opzich nog wel mee met de planning en leek het niet al te veel werk.
+We hadden ongeveer 3 maanden de tijd om het te maken dus ik nam 1 week voor bedenken van een ontwerp
+en zoveel mogelijk referentiemateriaal op te zoeken.
+
+Ik nam daarna 1 maand om te modelen en een unwrap erop te krijgen.
+daarna wilde ik nog 2 weken nemen om te texturen en de rest van de tijd besteden aan coding/extra's
+
+1.3 De crash.
+
+Ik was na ongeveer 1 maand bijna helemaal klaar met alles. Ik had een ontwerp een model een unwrap,textures 
+en de code was zo goed als af. Het enige wat nog echt ontbrak waren wat extra's. Maar toen crashede mijn laptop
+wat ervoor zorgde dat alles wat ik in de afgelopen anderhalve maand kwijt was. Ik was dus helemaal terug bij af.
+Dus ik had even  gekeken wanneer de dealine was en die was al heel heel dichtbij. Ik had nu nog een halve week om alles te doen
+in plaats van 3 maanden. Kortom, ik was volledig in paniek. Dus ik heb een model gemaakt in 1 dag en de textures maar gedaan met wat unity te bieden heeft.
+De coding duurde lichterlijk langer omdat ik daar meer tijd aand wilde besteden omdat dat de kant is die ik graag op wil gaan.
+
+1.4 Wat ging er verder fout?
+
+naast de crash gingen er meerdere dingen fout, zo maakte ik veel fouten in het modellen waardoor ik aardig wat ngons had die eruit moesten.
+Daarna ben ik begonnen met unwrappen wat ik niet heb afgemaakt wegens tijdnood terwijl ik dat had kunnen zien aankomen.
+Ook heb ik nog nooit een echte flipperkast gebruikt dus wist ik niet erg goed hoe het eruit zat en wat erin moest. Dus ik heb aardig wat tijd 
+ge yahoo'd en heb gebruikt wat ik kon vinden. bij nader inzien had ik veel beter aan mensen kunnen vragen of zei wisten wat er zoal in een flipperkast aanwezig is.
+Ook maakte ik na de crash veel gehaaste fouten met coding. Ik vergat bepaalde belangrijke onderdelen en heb zelfs perongeluk verkeerde scripts gedeleted.
+Ik ben ook niet erg blij met hoe gevuld mijn flipperkast is en hoe de textures eruit zien. Ik hoop dat in de toekomst veel beter te doen.
+
+1.5 Wat ging er goed?
+
+In het begin ging het vooral heel goed toen ik voor de crash mijn flipperkast vrij snel afhad.
+Het model zag er flink wat beter uit en ik had ook een zelf-gemaakt texture wat er beter uitzag.
+De coding was ook goed en ik had tijd om wat leuke extra's erin te verwerken wat het wat aantrekkelijker maakte.
+
+1.6 Wat zou je anders doen in de toekomst?
+
+Ik zou zeker weten een veel strakkere planning aanhouden en alles veel beter ordenen in plaats van alles door elkaar te doen.
+Ook zou ik GitHub veel veel meer gebruiken aangezien ik mijn project ben verloren toen ik dat niet deed. 
+Ik zou ook meer referentiemateriaal zoeken buiten het internet om. Ofterwijl mensen vragen die er ervaring mee hebben om wat zei zouden doen.
+Ik wil ook meer tijd besteden aan het modelen in de toekomst zodat het model er beter uitziet.
+Ik denk dat ik ook teveel polys heb gebruikt voor wat ik zou moeten kunnen presteren na een jaar op de opleiding te hebben gezeten. Dus dat zou ik zeker anders doen.
+En als laatst zou ik meer tijd besteden aan hoe realistisch het eruit zou zien. En proberen het zo echt mogelijk te maken zodat het ook spanning meegeeft, want dat heb ik nu niet.
+
+
+1.7 Testing, waar liep je tegenaan?
+
+Bij het testen kreeg ik echt een ***load aan fouten over me heen. Ik had problemen met belichting waardoor het ongelofelijk fel was in mijn scene en het er niet uitzag.
+Ik had ook veel problemen met code zoals ik al zei waarin in te slordig was en zelfs scripts heb gedeleted.
+Ik had ook problemen met de UI die niet lekker mee-scalede. Ik heb wel gezocht naar antwoorden op internet maar dat zijn allemaal outdated antwoorden.
+Ik had ook veel struggles met mijn bal die niet smooth over mijn baan heenrolde en met moeite terugstuiterde.
+Daarnaast ben ik veel te lang bezig geweest met animaties voor mijn flippers wat 10 minuten werk zou moeten zijn. Dat komt omdat ik de benaming verkeerd had gedaan
+waardoor ik niet wist welke animatie waarbij hoorde. 
+
+1.8 Conclusie.
+
+Mijn conclusie is dat het een project was wat me erg leuk leek maar erg vervelend uitdraaide.
+In het begin was ik er erg positief over en ook over wat ik had neergezet nadat het af was.
+Maar toen kwam dus die crash waardoor de moed me wel een beetje in de schoenen zakte.
+Maar ik heb het er niet bij laten zitten en heb mijn best gedaan om toch wat te kunnen maken ondanks de beperkte tijd die ik had.
+Ik denk dat ik zeker beter kan doen en ook had moeten doen (zeker voor het eerste project) maar helaas kon het niet anders nadat ik github niet had gebruikt.
+Verder was het wel een leerzaam project, ik heb nieuwe dingen geleerd voor zowel het modelen als voor coding (vooral coding) waar ik wel blij mee ben. 
+.
