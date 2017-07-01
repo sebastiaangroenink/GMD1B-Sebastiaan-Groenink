@@ -28,7 +28,6 @@ public class PlayerController : MonoBehaviour
 
     //class references
     public Pickups               pickup;
-    public QuestManager          questManager;
     public PickupManager         pickManager;
     public SpellStats            spellStats;
 
@@ -41,15 +40,11 @@ public class PlayerController : MonoBehaviour
         }
         RegenMP();
         RegenHP();
-        //todo kill player when he's dead.
-
-        //valid ''deny'' message when not enough MP to cast spells.
-        //make an UI for player to see stats.
     }
 
     void CamRotate()
     {
-        if (Input.GetButton("Fire2"))//basic way of rotation players camera to look around
+        if (Input.GetButton("Fire2"))//allows player to rotate camera
         {
             transform.Rotate(new Vector3(0, Input.GetAxis("Mouse X"), 0 * sensitivity));
             cam.transform.Rotate(new Vector3(-Input.GetAxis("Mouse Y"), 0, 0 * sensitivity));

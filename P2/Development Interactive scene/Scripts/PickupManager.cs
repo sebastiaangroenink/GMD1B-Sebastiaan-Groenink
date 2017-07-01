@@ -6,7 +6,6 @@ public class PickupManager : MonoBehaviour
 {
 
     //class references
-    public QuestManager questManager;
     public Pickups pickups;
     public PlayerController playerController;
 

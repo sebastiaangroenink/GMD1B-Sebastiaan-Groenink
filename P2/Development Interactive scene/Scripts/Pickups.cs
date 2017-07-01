@@ -13,7 +13,6 @@ public class Pickups : MonoBehaviour {
     
     //class references
     public PlayerController playerController;
-    public QuestManager     questManager;
     public PickupManager    pickManager;
 
     //particle references
@@ -26,24 +25,14 @@ public class Pickups : MonoBehaviour {
 	}
 
     void ItemCheck()//checks for active bools , if one is active then gets the transform from ''hit'' in pickManager and sends that information to the function ''consumable''
-    { 
+    {
         if (consumable)
         {
             Consumable(pickManager.hit.transform);
             consumable = false;
         }
-        if (interactible)
-        {
-            Interactible(pickManager.hit.transform);
-            interactible = false;
-        }
-        if (questItem)
-        {
-            QuestItem(pickManager.hit.transform);
-            questItem = false;
-        }
     }
-    void Consumable(Transform consumable)//if called , checks if the consumable item is positive or negative.
+    void Consumable (Transform consumable)//if called , checks if the consumable item is positive or negative.
     {
             var potion = consumable.GetComponent<Potion>();//creates local variable to acces the Potion component of potions player interacts with.
         if (consumable.tag == "consumable")
@@ -73,28 +62,5 @@ public class Pickups : MonoBehaviour {
         }
         Destroy(consumable.transform.gameObject);
         // destroys the consumable so you can't consume it over and over again.
-    }
-
-    void Interactible(Transform interactible)
-    {
-        if(interactible.tag == "Door")
-        {
-            //todo open door
-        }
-        if(interactible.tag == "Chest")
-        {
-            //todo check if filled. If so : get coins + ''animation''
-        }
-        if(interactible.tag == "light")
-        {
-            //todo enable/disable light.
-        }
-    }
-
-    void QuestItem(Transform questItem)
-    {
-        //todo complete quest
-        //todo load new completion conversation
-        
     }
 }
